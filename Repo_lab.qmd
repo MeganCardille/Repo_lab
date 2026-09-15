@@ -6,7 +6,7 @@ editor: visual
 
 ## Question 1
 
-The message states "Already up to date because what is in the document is not behind the saved document in Github.
+The message states "Already up to date" because what is in the document is not behind the saved document in Github.
 
 ## Question 2
 
@@ -43,3 +43,4 @@ head(iris2)
 
 ## Question 8
 
+![Lab_3 Commits](Images/Repo_commitsS.png)
