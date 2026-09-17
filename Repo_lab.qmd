@@ -1,6 +1,6 @@
 ---
 title: "Repo_lab"
-format: html
+format: pdf
 editor: visual
 ---
 
@@ -12,7 +12,7 @@ The message states "Already up to date" because what is in the document is not b
 
 Install package are run in the console because you don't need to save it to your document. 
 
-## Question 3
+## Question 3 
 You should put library in you file because you need to save it in your file.
 
 ## Question 4
